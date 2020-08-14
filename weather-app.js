@@ -2,7 +2,7 @@
 
 const api = {
     key:"80473d6955f8450375f329f1352771bb",
-    base:"http://api.openweathermap.org/data/2.5/"
+    base:"https://api.openweathermap.org/data/2.5/"
 }
 
 const searchBox = document.querySelector('.search-box');
